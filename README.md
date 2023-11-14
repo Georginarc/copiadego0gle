@@ -12,10 +12,10 @@
 ### 2. Qué construí
 En este proyecto me enfoque en construir la clonación de la interfaz de Google.
 Contiene las siguientes secciones:
--**Header:** Sección que involucra la foto de mi perfil, iconos y menú con los enlaces externos.
--**Main:** Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
+- **Header:** Sección que involucra la foto de mi perfil, iconos y menú con los enlaces externos.
+- **Main:** Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
 
--**Footer:** Sección que incluye enlaces externos al final de la página.
+- **Footer:** Sección que incluye enlaces externos al final de la página.
 
 Las tecnologías que utilicé, son:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
